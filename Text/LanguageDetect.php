@@ -21,9 +21,6 @@
  * @link      http://langdetect.blogspot.com/
  */
 
-require_once 'Text/LanguageDetect/Exception.php';
-require_once 'Text/LanguageDetect/Parser.php';
-require_once 'Text/LanguageDetect/ISO639.php';
 
 /**
  * Language detection class
